@@ -46,7 +46,7 @@ EXPOSE $port
 
  - Create file "index.html" next to the Dockerfile with the content below:
 ```
-<h1>Python App</h1>
+<h1>Welcome to Assembly Hack !! - Hello dear python app</h1>
 ```
 ```
 $ ls -l
