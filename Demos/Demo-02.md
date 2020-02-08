@@ -53,4 +53,6 @@ $ docker ps
  - Browse to the application:
 ```
 http://localhost:3000/
+
+ default admin user is admin/admin.
 ```
