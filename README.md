@@ -35,6 +35,6 @@ Developers and DevOps
  - Module 08:  Volumes & Networks
  - Module 09:  Working with Registries
  - Module 10:  Advanced Docker Overview
- - Module 11/12:  Docker Compose
- - Module 13:  cgroups
+ - Module 11/12/13:  Docker Compose
+ - Module 14:  cgroups
  
