@@ -1,4 +1,4 @@
-echo "pulling docker images for the Sela Docker workshop"
+echo "pulling docker images for the  Docker workshop"
 docker pull hello-world
 docker pull nginx
 docker pull selaworkshops/npm-static-app:latest
