@@ -246,7 +246,7 @@ Make sure you are in the `dockercon-workshop/cgroups/cpu-stress` directory of th
 In this step you've seen how Docker Compose can set container CPU affinities. Remember that Docker Compose can also set CPU quotas and shares. See the [documentation](https://docs.docker.com/compose/compose-file/#cpu-shares-cpu-quota-cpuset-domainname-hostname-ipc-mac-address-mem-limit-memswap-limit-privileged-read-only-restart-shm-size-stdin-open-tty-user-working-dir) for more detail.
 
 
-# <a name="fork_bomb"></a>Step 6: Preventing a fork bomb
+# <a name="fork_bomb"></a>Step 6: Preventing a fork bomb - Don't TRY this example its for Reading purpose only ---
 
 A *fork bomb* is a form of denial of service (DoS) attack where a process continually replicates itself with the goal of depleting system resources to the point where a system can no longer function.
 
