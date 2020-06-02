@@ -11,3 +11,8 @@ https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
 
 # Resource management 
 https://goldmann.pl/blog/2014/09/11/resource-management-in-docker/
+
+#F5 on K8s
+https://clouddocs.f5.com/containers/v2/kubernetes/kctlr-app-install.html
+F5 Container Ingress Services - Kubernetes
+
